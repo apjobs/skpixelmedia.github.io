@@ -323,7 +323,7 @@ margin-bottom: 5px;
     text-align: center;
    }
    .scroll{
-    display: none;
+    display: block;
    }
    
    .contactp{
