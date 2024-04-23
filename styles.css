@@ -93,6 +93,7 @@ a.cta_btn {
     text-decoration: none;
     letter-spacing: 2px;
     transition: background .3s ease;
+ margin-top:10px;
 }
 
 a.cta_btn:hover {
